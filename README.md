@@ -26,6 +26,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: JOSIAH IMMANUEL A
 RegisterNumber:  212223043003 
+```
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
@@ -92,6 +93,7 @@ print(y_prednew)
 xnew = np.array([[0, 0, 0, 0, 0, 2, 8, 2, 0, 0, 1, 0]]) 
 y_prednew = predict(theta, xnew) 
 print(y_prednew)
+```
 
 ## Output:
 ![Screenshot 2025-04-10 131715](https://github.com/user-attachments/assets/91324cce-7738-4c80-9c1e-2d8df3f9e52c)
